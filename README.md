@@ -1,5 +1,5 @@
 # SMU-JoUR-LaTeX-class
-LaTeX style for articles published in SMU Journal of Undergraduate Research
+LaTeX style for articles published in *SMU Journal of Undergraduate Research*
 
 *Revised 12/2016.*
 
