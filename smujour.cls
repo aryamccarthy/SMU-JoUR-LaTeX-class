@@ -1,3 +1,7 @@
+%% SMU JoUR style
+%% Author: Arya D. McCarthy
+%% Revised 12/2016
+
 %% Identification
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{smujour}
