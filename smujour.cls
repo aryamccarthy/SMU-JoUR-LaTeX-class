@@ -21,7 +21,7 @@
 %% Useful packages.
 \RequirePackage{dirtytalk}  % Quote text. He said \say{She said, \say{Hello!}}
 \RequirePackage{hyperref}
-\usepackage[per-mode=symbol, range-phrase=--, range-units=single]{siunitx}
+\RequirePackage[per-mode=symbol, range-phrase=--, range-units=single]{siunitx}
 
 % Font
 % Palatino font needs to be corrected by resetting \bfdefault to bx
